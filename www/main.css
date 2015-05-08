@@ -1,0 +1,16 @@
+.box {
+  margin-top: 20px;
+  width: 456px;
+  border: solid 1px transparent;
+}
+.box > div {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  text-align: center;
+  font: bold 24px/100px Tahoma;
+  border-radius: 10px;
+  background-color: #0a1c1e;
+  color: #FFF;
+}
